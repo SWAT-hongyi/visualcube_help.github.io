@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/SWAT-hongyi/visualcube_help.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SWAT-hongyi/visualcube_help.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# visual cube中文帮助文档
+visual cube是一个可以生成魔方状态的网站，拥有繁多的功能。
+网址为：<http://cube.rider.biz/visualcube.png?>
+官方帮助文档（英文）<http://cube.rider.biz/visualcube.php>
+## 参数使用
+在网址http://cube.rider.biz/visualcube.png?后添加。参数间用 ***&*** 分割。
+## 参数简表
+|参数名|取值|简介|详细介绍|
+|:----:|:----:|:----:|:----|
+|fmt|png,gif,jpg,svg,tiff,ico|导出格式| |
