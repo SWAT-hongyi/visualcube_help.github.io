@@ -19,6 +19,6 @@ visual cube是一个可以生成魔方状态的网站，拥有繁多的功能。
 ## 注
 因空间关系，部分内容移至此处
 ### 注1和注2
-| fl | f2l | ll | cll | ell | oll | ocll | oell | coll | ocell | wv | vh | els | cls | cmll | cross | f2l_3 | f2l_2 | f2l_sm | f2l_1 | f2b | line | 2x2x2 | 2x2x3 |
-|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
-|![fl](http://cube.rider.biz/visualcube.png?stage=fl)
+|注1：可使用的参数| fl | f2l | ll | cll | ell | oll | ocll | oell | coll | ocell | wv | vh | els | cls | cmll | cross | f2l_3 | f2l_2 | f2l_sm | f2l_1 | f2b | line | 2x2x2 | 2x2x3 |
+|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+|注2：注1的状态|![fl](http://cube.rider.biz/visualcube.png?stage=fl)
